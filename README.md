@@ -1,2 +1,2 @@
 # Calculadoradegorjetas
-treinamento HTML5 e CSS3
+treinamento HTML5 e CCS3
